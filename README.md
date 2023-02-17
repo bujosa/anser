@@ -5,3 +5,11 @@ Follow the instructions on [Alchemy University](https://university.alchemyprevie
 ## Anser
 
 This is a simple project about &lt;&lt; How to Mint NFTs >>
+
+### Run your node
+
+    npx hardhat node
+
+### Compile your contract
+
+     npx hardhat compile
